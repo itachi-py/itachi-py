@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Mo Oruc
-- 📚 I am a junior double majoring in Economics and Computer Science at Georgetown University.
-- 👀 I’m interested in data sceince, algorithmic trading, and cyber security.
-- 🌱 I’m always interested in learning and collaborating for in data sceince projects.
-- 📫 How to reach me: mio12@georgetown.edu
-
-<!---
-itachi-py/itachi-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! My name is Muhammed İkbal Oruç.
+I graduated from Georgetown University with a double major in Economics and Computer Science.
+I am currently perusing a Masters degree in Economics at Koç University where I recieved a full scholarship.
+I expect to graduate in June 2025 with a completed research thesis. My interests include information assymetry and quantative finance.
+I completed an extensive internship at Dataminr, a data analytics and artificial intelligence company that sends real-time information to private and public sector clinets. I worked on projects involving cryptocurrency, supply chain, and corperate risk.
+I am motivated by finding intersections between economics, data science, and mathematics. 
+I am currently working on a side project where I hope to build economic and financial models that incorperate machine learning on numerical data while as considering sentiment scores from publically available qualitative data such as news articles and social media posts.
+I always open to connecting with new people to work with. You can add me on Linkedin or reach me by mail at mio12@georgetown.edu.
